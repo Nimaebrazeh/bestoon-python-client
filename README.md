@@ -1,5 +1,5 @@
 ## Bestoon python client
-A simple python client for [Bestoon Project] (https://github.com/jadijadi/bestoon)
+A simple python client for [Bestoon Project](https://github.com/jadijadi/bestoon)
 
 ### How to run
 
