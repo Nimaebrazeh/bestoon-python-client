@@ -1,2 +1,2 @@
 requests==2.20.1
-jsonschema==3.0.0
+
