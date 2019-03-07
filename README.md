@@ -19,7 +19,7 @@ If you forgot API token key, use `login()` method instead of above way (This met
 ```python
 bestoon = Bestoon() # make an Bestoon object
 bestoon.login(YOUR-USERNAME, YOUR-PASSWORD) # return API token
-bestoon.set_token(YOUR-TOKEN) # set API token to YOUT-TOKEN
+bestoon.set_token(YOUR-TOKEN) # set API token to YOUR-TOKEN
 ```
 
 ### Set expense
